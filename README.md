@@ -15,7 +15,7 @@ GCAL memiliki fungsi yang sama seperti CALCON, namun dengan kelebihan tampilan y
 - Riwayat Perhitungan: Menyimpan riwayat perhitungan sebelumnya.
 - Operasi Aritmatika Lengkap: Mendukung operasi tambah, kurang, kali, bagi, dan modulus.
 
-# Tutorial:
+# Setup:
 - Klon Repositori:
 salinan kode dengan mudah dari repo.
 - Jalankan Skrip:
